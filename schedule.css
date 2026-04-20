@@ -591,7 +591,7 @@ section {
 
   /* Hidden Element BLOK 2 Max Width Start */
   #senin-blok2 {
-    max-height: 500px;
+    max-height: 530px;
   }
 
   #selasa-blok2 {
@@ -599,7 +599,7 @@ section {
   }
 
   #rabu-blok2 {
-    max-height: 310px;
+    max-height: 340px;
   }
 
   #kamis-blok2 {
@@ -607,7 +607,7 @@ section {
   }
 
   #jumat-blok2 {
-    max-height: 180px;
+    max-height: 190px;
   }
 
   .calender img {
@@ -725,13 +725,9 @@ section {
   }
 
   /* Hidden Element BLOK 2 Max Width Start */
-  #senin-blok2 {
+  /* #senin-blok2 {
     max-height: 520px;
   }
-
-  /* #selasa-blok2 {
-    max-height: 170px;
-  } */
 
   #rabu-blok2 {
     max-height: 320px;
@@ -739,5 +735,5 @@ section {
 
   #kamis-blok2 {
     max-height: 320px;
-  }
+  } */
 }
