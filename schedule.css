@@ -237,7 +237,7 @@ section {
 
 /* Hidden Element Max Width Start */
 #senin {
-  max-height: 170px;
+  max-height: 540px;
 }
 
 #selasa {
@@ -245,7 +245,7 @@ section {
 }
 
 #rabu {
-  max-height: 170px;
+  max-height: 720px;
 }
 
 #kamis {
@@ -259,19 +259,19 @@ section {
 
 /* Hidden Element BLOK 2 Max Width Start */
 #senin-blok2 {
-  max-height: 540px;
+  max-height: 170px;
 }
 
 #selasa-blok2 {
-  max-height: 360px;
+  max-height: 170px;
 }
 
 #rabu-blok2 {
-  max-height: 350px;
+  max-height: 170px;
 }
 
 #kamis-blok2 {
-  max-height: 350px;
+  max-height: 170px;
 }
 
 #jumat-blok2 {
@@ -570,7 +570,7 @@ section {
   }
 
   #senin {
-    max-height: 140px;
+    max-height: 470px;
   }
 
   #selasa {
@@ -578,7 +578,7 @@ section {
   }
 
   #rabu {
-    max-height: 140px;
+    max-height: 620px;
   }
 
   #kamis {
@@ -591,23 +591,23 @@ section {
 
   /* Hidden Element BLOK 2 Max Width Start */
   #senin-blok2 {
-    max-height: 530px;
+    max-height: 140px;
   }
 
   #selasa-blok2 {
-    max-height: 310px;
+    max-height: 140px;
   }
 
   #rabu-blok2 {
-    max-height: 340px;
+    max-height: 140px;
   }
 
   #kamis-blok2 {
-    max-height: 310px;
+    max-height: 140px;
   }
 
   #jumat-blok2 {
-    max-height: 190px;
+    max-height: 140px;
   }
 
   .calender img {

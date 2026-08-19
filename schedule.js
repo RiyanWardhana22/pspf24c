@@ -1,10 +1,10 @@
-Swal.fire({
-  position: "center",
-  icon: "success",
-  title: "Refresh websitenya yaa",
-  showConfirmButton: false,
-  timer: 1500,
-});
+// Swal.fire({
+//   position: "center",
+//   icon: "success",
+//   title: "Refresh websitenya yaa",
+//   showConfirmButton: false,
+//   timer: 1500,
+// });
 
 // Section Timetable
 const toggleButtons = document.querySelectorAll(".toggle-button");
@@ -71,7 +71,7 @@ ScrollReveal().reveal(
   ".heading, #judul-calender, .tabs__head, .update, .btn-calender, .send-button, .send-button24",
   {
     origin: "left",
-  }
+  },
 );
 // ScrollReveal().reveal(".toggle-button, .hidden-element,  #img", {
 //   origin: "bottom",
